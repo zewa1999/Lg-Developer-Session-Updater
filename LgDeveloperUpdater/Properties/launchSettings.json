@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LgDeveloperUpdater": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
