@@ -28,4 +28,4 @@ Once Docker is installed and you have your developer token:
 3. Go to the container named lg-updater and in the logs if the session was extended.
 4. The script runs at every 10 days.
 
-![Logs](Untitled.png.png "Logs")
+![Logs](Untitled.png "Logs")
