@@ -11,7 +11,7 @@ internal class Program
 
         try
         {
-            string token = "9f692715d03c3f0c2f350fa9ccb8cbbe5b590c04b547ad0619f1ea589a6c170d";//Environment.GetEnvironmentVariable("LG_DEVELOPER_TOKEN")!;
+            string token = Environment.GetEnvironmentVariable("LG_DEVELOPER_TOKEN")!;
             Console.WriteLine($"The token is:{token}");
             if (string.IsNullOrEmpty(token))
             {
